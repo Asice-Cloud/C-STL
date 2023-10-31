@@ -1,0 +1,6 @@
+﻿  index.cpp
+C:\Users\24922\source\repos\Rehabilitation\Rehabilitation\index.cpp(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+C:\Users\24922\source\repos\Rehabilitation\Rehabilitation\index.cpp(16,7): error C2084: 函数“char *strchr(char *const ,const int)”已有主体
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\ucrt\string.h(500,28): message : 参见“strchr”的前一个定义
+C:\Users\24922\source\repos\Rehabilitation\Rehabilitation\index.cpp(48,36): error C3861: “value”: 找不到标识符
+C:\Users\24922\source\repos\Rehabilitation\Rehabilitation\index.cpp(48,36): error C2065: “value”: 未声明的标识符
